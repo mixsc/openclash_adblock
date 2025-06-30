@@ -1,9 +1,9 @@
-# Version: 202506300019
+# Version: 202506301052
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 41788
-# Last modified: 2025-06-30T00:19:13+0000
+# Last modified: 2025-06-30T10:52:25+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9762,7 +9762,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.fegivja.com
   - DOMAIN-SUFFIX,cdn.fqkwn.com
   - DOMAIN-SUFFIX,cdn.ftwpcn.com
-  - DOMAIN-SUFFIX,cdn.gocolow.com
   - DOMAIN-SUFFIX,cdn.haocaa.com
   - DOMAIN-SUFFIX,cdn.headlinesmart.com
   - DOMAIN-SUFFIX,cdn.house
@@ -18553,6 +18552,7 @@ payload:
   - DOMAIN-SUFFIX,gobmodfoe.com
   - DOMAIN-SUFFIX,gobusinessloan.com
   - DOMAIN-SUFFIX,gocheewimtie.xyz
+  - DOMAIN-SUFFIX,gocolow.com
   - DOMAIN-SUFFIX,goddessvip.com
   - DOMAIN-SUFFIX,godfreyapocarp.top
   - DOMAIN-SUFFIX,godkc.com
