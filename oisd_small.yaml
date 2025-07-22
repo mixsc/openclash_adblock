@@ -1,9 +1,9 @@
-# Version: 202507220019
+# Version: 202507220557
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 43067
-# Last modified: 2025-07-22T00:19:58+0000
+# Last modified: 2025-07-22T05:57:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,03p.info
   - DOMAIN-SUFFIX,03t441b8w.com
   - DOMAIN-SUFFIX,04-f-bmf.com
+  - DOMAIN-SUFFIX,0407137f3d.com
   - DOMAIN-SUFFIX,04424170.xyz
   - DOMAIN-SUFFIX,044da016b3.com
   - DOMAIN-SUFFIX,045fef1509.com
@@ -121,7 +122,6 @@ payload:
   - DOMAIN-SUFFIX,0f461325bf56c3e1b9.com
   - DOMAIN-SUFFIX,0f85bcb09c.97f477047f.com
   - DOMAIN-SUFFIX,0f997ecbe1.892fa3d127.com
-  - DOMAIN-SUFFIX,0fc36ae691.0407137f3d.com
   - DOMAIN-SUFFIX,0fe5096a4c.com
   - DOMAIN-SUFFIX,0ffaf504b2.com
   - DOMAIN-SUFFIX,0gw7e6s3wrao9y3q.pro
@@ -7431,6 +7431,7 @@ payload:
   - DOMAIN-SUFFIX,b62adecab1.907ac1b61e.com
   - DOMAIN-SUFFIX,b666.penzainform.ru
   - DOMAIN-SUFFIX,b668.record-bee.com
+  - DOMAIN-SUFFIX,b69b92742d.com
   - DOMAIN-SUFFIX,b6b381f428.9dcae3bd13.com
   - DOMAIN-SUFFIX,b6c215cd84.38e5270423.com
   - DOMAIN-SUFFIX,b6cb78mf.cfd
@@ -15107,6 +15108,7 @@ payload:
   - DOMAIN-SUFFIX,ds88pc0kw6cvc.cloudfront.net
   - DOMAIN-SUFFIX,ds8ect.com
   - DOMAIN-SUFFIX,ds8fc0.com
+  - DOMAIN-SUFFIX,dsa8h7.com
   - DOMAIN-SUFFIX,dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz
   - DOMAIN-SUFFIX,dsas.danawa.com
   - DOMAIN-SUFFIX,dsau5u.com
@@ -17176,7 +17178,6 @@ payload:
   - DOMAIN-SUFFIX,ff.sweetconnect.site
   - DOMAIN-SUFFIX,ff.trakerton.com
   - DOMAIN-SUFFIX,ff2f72443e.096f5e98aa.com
-  - DOMAIN-SUFFIX,ff413e4e51.b69b92742d.com
   - DOMAIN-SUFFIX,ffbdbx.xyz
   - DOMAIN-SUFFIX,ffjevt.icu
   - DOMAIN-SUFFIX,ffnlfxeyqpjg.com
@@ -32854,7 +32855,6 @@ payload:
   - DOMAIN-SUFFIX,s.ds7o2i.com
   - DOMAIN-SUFFIX,s.ds8wql.com
   - DOMAIN-SUFFIX,s.ds96gk.com
-  - DOMAIN-SUFFIX,s.dsa8h7.com
   - DOMAIN-SUFFIX,s.dsa9k5.com
   - DOMAIN-SUFFIX,s.dsajir.com
   - DOMAIN-SUFFIX,s.dsceay.com
