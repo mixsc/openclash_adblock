@@ -1,9 +1,9 @@
-# Version: 202508191120
+# Version: 202508191821
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
-# Entries: 45200
-# Last modified: 2025-08-19T11:20:48+0000
+# Entries: 45207
+# Last modified: 2025-08-19T18:21:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1256,6 +1256,7 @@ payload:
   - DOMAIN-SUFFIX,68amt53h.de
   - DOMAIN-SUFFIX,68aq8q352.com
   - DOMAIN-SUFFIX,68s4eyiru.com
+  - DOMAIN-SUFFIX,68s8.com
   - DOMAIN-SUFFIX,69681858.xyz
   - DOMAIN-SUFFIX,6969.javher.com
   - DOMAIN-SUFFIX,69741211.clicknplay.to
@@ -15498,6 +15499,7 @@ payload:
   - DOMAIN-SUFFIX,drylnk.com
   - DOMAIN-SUFFIX,ds-aksb-a.akamaihd.net
   - DOMAIN-SUFFIX,ds.macellan.online
+  - DOMAIN-SUFFIX,ds.recrampwiped.com
   - DOMAIN-SUFFIX,ds.ruanwengfa.com
   - DOMAIN-SUFFIX,ds02gfqy6io6i.cloudfront.net
   - DOMAIN-SUFFIX,ds0yue.com
@@ -20912,6 +20914,7 @@ payload:
   - DOMAIN-SUFFIX,hlhuihrzbebkv.one
   - DOMAIN-SUFFIX,hljuhottcvurepw.com
   - DOMAIN-SUFFIX,hlmiq.com
+  - DOMAIN-SUFFIX,hlog.bigda.com
   - DOMAIN-SUFFIX,hlogger.heraldcorp.com
   - DOMAIN-SUFFIX,hloontleulrrx.site
   - DOMAIN-SUFFIX,hlsrjzlljx.com
@@ -26556,6 +26559,7 @@ payload:
   - DOMAIN-SUFFIX,mllog.jd.com
   - DOMAIN-SUFFIX,mlm.de
   - DOMAIN-SUFFIX,mlnadvertising.com
+  - DOMAIN-SUFFIX,mlog.bigda.com
   - DOMAIN-SUFFIX,mlqcixbbgdwij.online
   - DOMAIN-SUFFIX,mlsys.xyz
   - DOMAIN-SUFFIX,mlvgxzenoiz.com
@@ -40468,6 +40472,7 @@ payload:
   - DOMAIN-SUFFIX,turmoilragcrutch.com
   - DOMAIN-SUFFIX,turn.com
   - DOMAIN-SUFFIX,turndynamicforbes.com
+  - DOMAIN-SUFFIX,turnedlargest.cfd
   - DOMAIN-SUFFIX,turnhub.net
   - DOMAIN-SUFFIX,turnipplumpositively.com
   - DOMAIN-SUFFIX,turnipsoft.pubfinity.com
@@ -40989,6 +40994,7 @@ payload:
   - DOMAIN-SUFFIX,unifieddataconnect.click
   - DOMAIN-SUFFIX,unifini.de
   - DOMAIN-SUFFIX,unimportant-pleasure.com
+  - DOMAIN-SUFFIX,union-mlog.bigda.com
   - DOMAIN-SUFFIX,union.360.cn
   - DOMAIN-SUFFIX,union.baidu.cn
   - DOMAIN-SUFFIX,union.baidu.com
@@ -44735,6 +44741,7 @@ payload:
   - DOMAIN-SUFFIX,yuuaos.xyz
   - DOMAIN-SUFFIX,yvcchjdiqzpog.rocks
   - DOMAIN-SUFFIX,yvdxhbuupndqo.love
+  - DOMAIN-SUFFIX,yviwubkbq.com
   - DOMAIN-SUFFIX,yvmads.com
   - DOMAIN-SUFFIX,yvoria.com
   - DOMAIN-SUFFIX,yvpswmiipjhni.life
