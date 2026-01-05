@@ -1,9 +1,9 @@
-# Version: 202601041217
+# Version: 202601041226
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards)
 # Entries: 48051
-# Last modified: 2026-01-04T12:17:15+0000
+# Last modified: 2026-01-04T12:26:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -34204,6 +34204,7 @@ payload:
   - DOMAIN-SUFFIX,recedefury.com
   - DOMAIN-SUFFIX,recedesphasmid.shop
   - DOMAIN-SUFFIX,receiptcadenceresurrection.com
+  - DOMAIN-SUFFIX,receive.wmcdp.io
   - DOMAIN-SUFFIX,receiver-metis.infeng.site
   - DOMAIN-SUFFIX,receiver.eigene.io
   - DOMAIN-SUFFIX,receiver.habby.mobi
@@ -45385,7 +45386,6 @@ payload:
   - DOMAIN-SUFFIX,wmbd.gamersky.com
   - DOMAIN-SUFFIX,wmccd.com
   - DOMAIN-SUFFIX,wmcdct.com
-  - DOMAIN-SUFFIX,wmcdp.io
   - DOMAIN-SUFFIX,wmcdpt.com
   - DOMAIN-SUFFIX,wmced.com
   - DOMAIN-SUFFIX,wmctjd.com
